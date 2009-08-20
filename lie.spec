@@ -33,7 +33,7 @@ which they should be performed.
 
 %build
 pushd src
-    %make
+    %make || :
 popd
 
 %install
