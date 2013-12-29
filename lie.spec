@@ -2,7 +2,7 @@
 
 Name:		lie
 Version:	2.2.2
-Release:	2
+Release:	3
 Group:		Sciences/Mathematics
 Summary:	Interactive computations of a Lie group theoretic nature
 # No license file, and apparently only available from sagemath.org
