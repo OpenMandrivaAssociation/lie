@@ -1,4 +1,5 @@
 %define liedir	%{_datadir}/lie
+%define debug_package %{nil}
 
 Name:		lie
 Version:	2.2.2
